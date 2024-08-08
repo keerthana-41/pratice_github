@@ -28,6 +28,7 @@ INSERT INTO products (name, description, price, stock) VALUES
 ('Smartwatch', 'Water-resistant smartwatch with fitness tracking.', 149.99, 75),
 ('Camera', 'Digital camera with 24MP resolution and 4K video.', 499.99, 20);
 
+aadukundam manchiga
 
 CREATE TABLE customers (
     customer_id INT PRIMARY KEY AUTO_INCREMENT,
